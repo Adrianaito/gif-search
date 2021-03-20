@@ -13,8 +13,8 @@ export default class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-     gifId: "gG6OcTSRWaSis",
-     gifIds: ["WuGSL4LFUMQU", "HuVCpmfKheI2Q", "u6uAu3yyDNqRq"]
+     gifId: "d2S6vzHNWSxa0",
+     gifIds: ["YWIFWTk70hXJm", "F7Jm8U4J8SZMY", "3o7bueStqEca4YftOE"]
     };
   }
 
