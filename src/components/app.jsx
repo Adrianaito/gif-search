@@ -38,7 +38,7 @@ export default class App extends Component {
   render() {
     const { gifId, gifIds } = this.state;
     return (
-      <div>
+      <div className="wrapper">
         <div className="left-scene">
           <SearchBar changeGifList={this.changeGifList} />
           <div className="selected-gif">
