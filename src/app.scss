@@ -81,7 +81,8 @@ body {
 }
 
 @media (max-width: 900px) {
-  #root > div {
+
+  .wrapper {
     display: flex;
     flex-direction: column;
     height: fit-content;
